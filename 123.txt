@@ -1,4 +1,0 @@
-[Adblock Plus 1.1]
-! Title: 12313
-! Expires: 2 days (update frequency)
-/ad/*
